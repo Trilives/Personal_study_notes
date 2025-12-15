@@ -1,0 +1,225 @@
+{
+  "main": {
+    "id": "acdbab03685be221",
+    "type": "split",
+    "children": [
+      {
+        "id": "5951b86fd826e9d8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4000bf01f5061458",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "开发环境/Isaac Sim 5.1.0 可视化界面操作 + 环境搭建 + Docker运行代码（系统学习笔记）.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Isaac Sim 5.1.0 可视化界面操作 + 环境搭建 + Docker运行代码（系统学习笔记）"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "857518aff693cd46",
+    "type": "split",
+    "children": [
+      {
+        "id": "913fe55738e73125",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8d3ffe6bfa38e10b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "f7b1656eb5a892e6",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "7fed2fb3984ed539",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "22b9d6c7ddfdf742",
+    "type": "split",
+    "children": [
+      {
+        "id": "b67044ed71d2ee78",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8c2636724958c298",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "GitHub/Git 本地仓库操作与 SSH 密钥配置指南.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Git 本地仓库操作与 SSH 密钥配置指南 的反向链接列表"
+            }
+          },
+          {
+            "id": "5337dcfcd938ac8d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Transformer/🧠 BERT 与 Transformer 编码器深度解析.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "🧠 BERT 与 Transformer 编码器深度解析 的出链列表"
+            }
+          },
+          {
+            "id": "3081b2f4e0abdb64",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "8ebd101d59a74d46",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "b6e7cb837a91dd64",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "开发环境/Isaac Sim 5.1.0 可视化界面操作 + 环境搭建 + Docker运行代码（系统学习笔记）.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Isaac Sim 5.1.0 可视化界面操作 + 环境搭建 + Docker运行代码（系统学习笔记） 的大纲"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:创建新数据库": false
+    }
+  },
+  "active": "4000bf01f5061458",
+  "lastOpenFiles": [
+    "开发环境/Docker 系统学习笔记（Ubuntu 24.04 + RTX 5090 + NVIDIA Driver 580.95.05）.md",
+    "开发环境/Isaac Sim 5.1.0 可视化界面操作 + 环境搭建 + Docker运行代码（系统学习笔记）.md",
+    "开发环境/Docker 系统学习笔记（Ubuntu 24.04 + RTX 5090 + NVIDIA Driver 580.95.05）.pdf",
+    "开发环境/~$cker 系统学习笔记（Ubuntu 24.04 + RTX 5090 + NVIDIA Driver 580.95.05）.md",
+    "开发环境/uv 加速下载配置笔记.md",
+    "开发环境/Python 虚拟环境与uv工具使用笔记.md",
+    "开发环境/Docker、虚拟环境、uv、Conda 与 Pixi 全面对比笔记.md",
+    "系统配置/踩坑经验/Snap 版 VS Code 的主要问题汇总（Ubuntu 24.04）.md",
+    "开发环境/Docker 学习笔记.md",
+    "系统配置/解决问题经验或常识/Ubuntu 24.04 上配置 Fcitx5 + 中州韵（Rime）.md",
+    "系统配置/解决问题经验或常识/升级软件包.md",
+    "讲座/时空AI讲座详细笔记.md",
+    "系统配置/踩坑经验/Ubuntu 内核升级踩坑与恢复经验：从 6.14 升级至 Mainline 6.18 导致图形界面崩溃的完整复盘.md",
+    "讲座",
+    "系统配置/解决问题经验或常识/Ubuntu 24.04 系统完成初始安装后，推荐执行.md",
+    "系统配置/解决问题经验或常识/rEFInd 安装与配置技术笔记.md",
+    "系统配置/解决问题经验或常识/git clone与验证完整性.md",
+    "系统配置/解决问题经验或常识/在 NVIDIA RTX 5090 显卡设备上安装 Ubuntu 操作系统的完整流程.md",
+    "系统配置/踩坑经验/Ubuntu使用向日葵失败.md",
+    "系统配置/踩坑经验/Ubuntu 22.04 在 RTX 5090 上的安装与驱动适配失败.md",
+    "GitHub/Git 本地仓库操作与 SSH 密钥配置指南.md",
+    "GitHub/Git 远程同步仓库系统学习笔记.md",
+    "Transformer/GPT 与 Transformer 架构核心原理笔记.md",
+    "系统配置/解决问题经验或常识/清理手动安装的 Linux 内核镜像.md",
+    "系统配置/解决问题经验或常识",
+    "系统配置/踩坑经验",
+    "产品经验/如何选择产品：系统化决策指南.md",
+    "系统配置",
+    "Readme.md",
+    "技巧.md",
+    "介绍",
+    "Transformer/BERT 与 Transformer 编码器深度解析.md",
+    "一些技巧",
+    "产品经验",
+    "其他-开发",
+    "开发环境"
+  ]
+}

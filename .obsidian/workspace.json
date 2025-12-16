@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "开发环境/Isaac Sim 5.1.0 可视化界面操作 + 环境搭建 + Docker运行代码（系统学习笔记）.md",
-                "mode": "preview",
+                "file": "开发环境/Docker/Docker - Docker Compose - Isaac Sim 开发笔记.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Isaac Sim 5.1.0 可视化界面操作 + 环境搭建 + Docker运行代码（系统学习笔记）"
+              "title": "Docker - Docker Compose - Isaac Sim 开发笔记"
             }
           }
         ]
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "开发环境/Isaac Sim 5.1.0 可视化界面操作 + 环境搭建 + Docker运行代码（系统学习笔记）.md",
+                "file": "开发环境/Docker/Docker - Docker Compose - Isaac Sim 开发笔记.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Isaac Sim 5.1.0 可视化界面操作 + 环境搭建 + Docker运行代码（系统学习笔记） 的大纲"
+              "title": "Docker - Docker Compose - Isaac Sim 开发笔记 的大纲"
             }
           }
         ],
@@ -185,9 +185,15 @@
   },
   "active": "4000bf01f5061458",
   "lastOpenFiles": [
-    "开发环境/Docker 系统学习笔记（Ubuntu 24.04 + RTX 5090 + NVIDIA Driver 580.95.05）.md",
-    "开发环境/Isaac Sim 5.1.0 可视化界面操作 + 环境搭建 + Docker运行代码（系统学习笔记）.md",
+    "开发环境/Docker/Docker 系统学习笔记（Ubuntu 24.04 + RTX 5090 + NVIDIA Driver 580.95.05）.md",
+    "开发环境/Docker/Docker - Docker Compose - Isaac Sim 开发笔记.md",
     "开发环境/Docker 系统学习笔记（Ubuntu 24.04 + RTX 5090 + NVIDIA Driver 580.95.05）.pdf",
+    "开发环境/Docker",
+    "GitHub/GitHub 学习笔记.md",
+    "GitHub/GitHub 添加子模块（submodule）方式整理.md",
+    "GitHub/Git 远程同步仓库系统学习笔记.md",
+    "GitHub/Git 本地仓库操作与 SSH 密钥配置指南.md",
+    "开发环境/Isaac Sim 5.1.0 可视化界面操作 + 环境搭建 + Docker运行代码（系统学习笔记）.md",
     "开发环境/~$cker 系统学习笔记（Ubuntu 24.04 + RTX 5090 + NVIDIA Driver 580.95.05）.md",
     "开发环境/uv 加速下载配置笔记.md",
     "开发环境/Python 虚拟环境与uv工具使用笔记.md",
@@ -205,21 +211,15 @@
     "系统配置/解决问题经验或常识/在 NVIDIA RTX 5090 显卡设备上安装 Ubuntu 操作系统的完整流程.md",
     "系统配置/踩坑经验/Ubuntu使用向日葵失败.md",
     "系统配置/踩坑经验/Ubuntu 22.04 在 RTX 5090 上的安装与驱动适配失败.md",
-    "GitHub/Git 本地仓库操作与 SSH 密钥配置指南.md",
-    "GitHub/Git 远程同步仓库系统学习笔记.md",
     "Transformer/GPT 与 Transformer 架构核心原理笔记.md",
     "系统配置/解决问题经验或常识/清理手动安装的 Linux 内核镜像.md",
     "系统配置/解决问题经验或常识",
     "系统配置/踩坑经验",
     "产品经验/如何选择产品：系统化决策指南.md",
     "系统配置",
-    "Readme.md",
-    "技巧.md",
     "介绍",
-    "Transformer/BERT 与 Transformer 编码器深度解析.md",
     "一些技巧",
     "产品经验",
-    "其他-开发",
-    "开发环境"
+    "其他-开发"
   ]
 }

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "开发环境/Docker/Docker - Docker Compose - Isaac Sim 开发笔记.md",
+                "file": "技巧.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Docker - Docker Compose - Isaac Sim 开发笔记"
+              "title": "技巧"
             }
           }
         ]
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "开发环境/Docker/Docker - Docker Compose - Isaac Sim 开发笔记.md",
+                "file": "技巧.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Docker - Docker Compose - Isaac Sim 开发笔记 的大纲"
+              "title": "技巧 的大纲"
             }
           }
         ],
@@ -185,8 +185,10 @@
   },
   "active": "4000bf01f5061458",
   "lastOpenFiles": [
-    "开发环境/Docker/Docker 系统学习笔记（Ubuntu 24.04 + RTX 5090 + NVIDIA Driver 580.95.05）.md",
+    "系统配置/解决问题经验或常识/RustDesk 自建中继服务器部署与维护指南.md",
+    "系统配置/解决问题经验或常识/rEFInd 安装与配置技术笔记.md",
     "开发环境/Docker/Docker - Docker Compose - Isaac Sim 开发笔记.md",
+    "开发环境/Docker/Docker 系统学习笔记（Ubuntu 24.04 + RTX 5090 + NVIDIA Driver 580.95.05）.md",
     "开发环境/Docker 系统学习笔记（Ubuntu 24.04 + RTX 5090 + NVIDIA Driver 580.95.05）.pdf",
     "开发环境/Docker",
     "GitHub/GitHub 学习笔记.md",
@@ -206,7 +208,6 @@
     "系统配置/踩坑经验/Ubuntu 内核升级踩坑与恢复经验：从 6.14 升级至 Mainline 6.18 导致图形界面崩溃的完整复盘.md",
     "讲座",
     "系统配置/解决问题经验或常识/Ubuntu 24.04 系统完成初始安装后，推荐执行.md",
-    "系统配置/解决问题经验或常识/rEFInd 安装与配置技术笔记.md",
     "系统配置/解决问题经验或常识/git clone与验证完整性.md",
     "系统配置/解决问题经验或常识/在 NVIDIA RTX 5090 显卡设备上安装 Ubuntu 操作系统的完整流程.md",
     "系统配置/踩坑经验/Ubuntu使用向日葵失败.md",
@@ -215,7 +216,6 @@
     "系统配置/解决问题经验或常识/清理手动安装的 Linux 内核镜像.md",
     "系统配置/解决问题经验或常识",
     "系统配置/踩坑经验",
-    "产品经验/如何选择产品：系统化决策指南.md",
     "系统配置",
     "介绍",
     "一些技巧",

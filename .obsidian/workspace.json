@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "知识点/Python装饰器.md",
+                "file": "开发环境/Isaac_Sim/Isaac Sim & Omniverse.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Python装饰器"
+              "title": "Isaac Sim & Omniverse"
             }
           }
         ]
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "知识点/Python装饰器.md",
+                "file": "开发环境/Isaac_Sim/Isaac Sim & Omniverse.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Python装饰器 的大纲"
+              "title": "Isaac Sim & Omniverse 的大纲"
             }
           }
         ],
@@ -183,43 +183,43 @@
       "bases:创建新数据库": false
     }
   },
-  "active": "b6e7cb837a91dd64",
+  "active": "4000bf01f5061458",
   "lastOpenFiles": [
-    "技巧/安全共享文件夹.md",
+    "开发环境/Isaac_Sim/Isaac Sim 5.1.0 可视化界面操作 + 环境搭建 + Docker运行代码（系统学习笔记）.md",
+    "开发环境/Isaac_Sim/Isaac Sim & Omniverse.md",
+    "开发环境/Isaac_Sim/创建第一个机器人/创建.md",
+    "开发环境/Isaac_Sim/创建第一个机器人/控制.md",
+    "开发环境/Isaac_Sim/创建第一个机器人",
+    "开发环境/Docker/Docker、虚拟环境、uv、Conda 与 Pixi 全面对比笔记.md",
+    "开发环境/Docker/Docker 系统学习笔记（Ubuntu 24.04 + RTX 5090 + NVIDIA Driver 580.95.05）.md",
+    "开发环境/Docker/Docker - Docker Compose - Isaac Sim 开发笔记.md",
+    "其他-开发/Windows 11 远程控制断连问题排查与解决指南.md",
+    "其他-开发/Ubuntu基本操作.md",
+    "其他-开发/SSH 密钥配置与安全登录实践笔记（含 Tailscale 公网穿透）.md",
+    "产品经验/如何选择产品：系统化决策指南.md",
     "知识点/Python装饰器.md",
+    "技巧/安全共享文件夹.md",
     "知识点",
     "技巧/创建无后缀（&特定后缀）文件.md",
-    "产品经验/如何选择产品：系统化决策指南.md",
     "技巧",
-    "开发环境/Isaac_Sim/构建一个简单的机器人.md",
-    "开发环境/Docker/Docker、虚拟环境、uv、Conda 与 Pixi 全面对比笔记.md",
     "开发环境/Isaac_Sim",
     "系统配置/解决问题经验或常识/RustDesk 自建中继服务器部署与维护指南.md",
     "系统配置/解决问题经验或常识/rEFInd 安装与配置技术笔记.md",
-    "开发环境/Docker/Docker - Docker Compose - Isaac Sim 开发笔记.md",
-    "开发环境/Docker/Docker 系统学习笔记（Ubuntu 24.04 + RTX 5090 + NVIDIA Driver 580.95.05）.md",
     "开发环境/Docker 系统学习笔记（Ubuntu 24.04 + RTX 5090 + NVIDIA Driver 580.95.05）.pdf",
     "开发环境/Docker",
     "GitHub/GitHub 学习笔记.md",
     "GitHub/GitHub 添加子模块（submodule）方式整理.md",
     "GitHub/Git 远程同步仓库系统学习笔记.md",
     "GitHub/Git 本地仓库操作与 SSH 密钥配置指南.md",
-    "开发环境/Isaac_Sim/Isaac Sim 5.1.0 可视化界面操作 + 环境搭建 + Docker运行代码（系统学习笔记）.md",
     "开发环境/~$cker 系统学习笔记（Ubuntu 24.04 + RTX 5090 + NVIDIA Driver 580.95.05）.md",
     "开发环境/uv 加速下载配置笔记.md",
     "开发环境/Python 虚拟环境与uv工具使用笔记.md",
     "系统配置/踩坑经验/Snap 版 VS Code 的主要问题汇总（Ubuntu 24.04）.md",
     "开发环境/Docker 学习笔记.md",
     "系统配置/解决问题经验或常识/Ubuntu 24.04 上配置 Fcitx5 + 中州韵（Rime）.md",
-    "系统配置/解决问题经验或常识/升级软件包.md",
-    "讲座/时空AI讲座详细笔记.md",
-    "系统配置/踩坑经验/Ubuntu 内核升级踩坑与恢复经验：从 6.14 升级至 Mainline 6.18 导致图形界面崩溃的完整复盘.md",
     "讲座",
-    "系统配置/解决问题经验或常识/Ubuntu 24.04 系统完成初始安装后，推荐执行.md",
-    "系统配置/解决问题经验或常识/git clone与验证完整性.md",
     "系统配置/解决问题经验或常识",
     "系统配置/踩坑经验",
-    "系统配置",
-    "介绍"
+    "系统配置"
   ]
 }

@@ -13,15 +13,44 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Transformer/BERT 与 Transformer 编码器深度解析.md",
+                "file": "其他/Windows 11 远程控制断连问题排查与解决指南.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "BERT 与 Transformer 编码器深度解析"
+              "title": "Windows 11 远程控制断连问题排查与解决指南"
+            }
+          },
+          {
+            "id": "28e627b2b22d13bc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "技术经验/Ubuntu server/2. 自动联网配置.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2. 自动联网配置"
+            }
+          },
+          {
+            "id": "c349e2623863914c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "技术经验/Ubuntu server/5. EasyTier异地组网.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "5. EasyTier异地组网"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -156,13 +185,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Transformer/BERT 与 Transformer 编码器深度解析.md",
+                "file": "技术经验/Ubuntu server/5. EasyTier异地组网.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "BERT 与 Transformer 编码器深度解析 的大纲"
+              "title": "5. EasyTier异地组网 的大纲"
             }
           }
         ],
@@ -183,16 +212,25 @@
       "bases:创建新数据库": false
     }
   },
-  "active": "4000bf01f5061458",
+  "active": "c349e2623863914c",
   "lastOpenFiles": [
-    "idea.md",
+    "技术经验/Ubuntu server/其他.md",
+    "技术经验/Ubuntu server/5. EasyTier异地组网.md",
+    "技术经验/Ubuntu server/1. 系统安装.md",
+    "技术经验/Ubuntu server/2. 自动联网配置.md",
+    "技术经验/Ubuntu server/3. 配置ssh.md",
+    "技术经验/Ubuntu server/4. 安装代理服务.md",
+    "技术经验/Ubuntu server",
+    "其他/Windows 11 远程控制断连问题排查与解决指南.md",
+    "未命名",
+    "技术经验",
+    "其他/Ubuntu基本操作.md",
     "Transformer/BERT 与 Transformer 编码器深度解析.md",
+    "idea.md",
     "Transformer/GPT 与 Transformer 架构核心原理笔记.md",
     "技巧/安全共享文件夹.md",
     "技巧/创建无后缀（&特定后缀）文件.md",
-    "其他/Ubuntu基本操作.md",
     "其他/Python 面向对象与模块导入系统学习笔记.md",
-    "其他/Windows 11 远程控制断连问题排查与解决指南.md",
     "其他/SSH 密钥配置与安全登录实践笔记（含 Tailscale 公网穿透）.md",
     "开发环境/Isaac Lab 安装.md",
     "开发环境/Isaac_Sim/Isaac Sim & Omniverse.md",
@@ -209,17 +247,8 @@
     "技巧",
     "开发环境/Isaac_Sim",
     "系统配置/解决问题经验或常识/RustDesk 自建中继服务器部署与维护指南.md",
-    "系统配置/解决问题经验或常识/rEFInd 安装与配置技术笔记.md",
     "开发环境/Docker 系统学习笔记（Ubuntu 24.04 + RTX 5090 + NVIDIA Driver 580.95.05）.pdf",
     "开发环境/Docker",
-    "GitHub/GitHub 学习笔记.md",
-    "GitHub/GitHub 添加子模块（submodule）方式整理.md",
-    "GitHub/Git 远程同步仓库系统学习笔记.md",
-    "GitHub/Git 本地仓库操作与 SSH 密钥配置指南.md",
-    "开发环境/~$cker 系统学习笔记（Ubuntu 24.04 + RTX 5090 + NVIDIA Driver 580.95.05）.md",
-    "讲座",
-    "系统配置/解决问题经验或常识",
-    "系统配置/踩坑经验",
-    "系统配置"
+    "讲座"
   ]
 }
